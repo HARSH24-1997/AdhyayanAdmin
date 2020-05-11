@@ -1,0 +1,30 @@
+ 
+
+/* .flipcard{
+    background-color:#ffccc2;
+}
+
+.flipcard h3 p{
+    color: #48001e;
+}
+
+.flipcard:hover{
+   background-color: #6C334B;
+   color: #ffccc2;
+
+}
+.flipcard h3 p :hover {
+    color:#ffccc2;
+} */
+
+
+  .pill {
+    height:0px;
+    border-radius: 2px;
+    color: teal;
+    border: 2px solid currentColor;
+    bottom: 10px;
+    width: 60px;
+  
+  }
+
